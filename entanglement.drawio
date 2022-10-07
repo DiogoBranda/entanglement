@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T20:32:50.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="773AHGMVRZ7LJKrf7teF" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-07T20:43:19.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pLRamb6RNr__5dDW73uF" version="20.4.0" type="github" pages="2">
   <diagram id="vySkNJd-FKlxjMpEcmsm" name="Overview">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,8 +15,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D9VOXixPJmUW0ykx9ZJY-1" value="RC Vehicle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="15" width="80" height="30" as="geometry" />
+        <mxCell id="D9VOXixPJmUW0ykx9ZJY-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;RC Vehicle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D9VOXixPJmUW0ykx9ZJY-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D9VOXixPJmUW0ykx9ZJY-3" value="" style="swimlane;startSize=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="350" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
