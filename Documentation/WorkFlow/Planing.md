@@ -1,14 +1,14 @@
 # Entanglement Workflow
 
-# Index
+## Index
 - Intro
 - ....
 - Planing
 
-# Intro
+## Intro
 TBD
 
-# Planing
+## Planing
 
 The Planing of new projects should follow the representation showed on the diagram.
 This enables a more granular approx, meaning that the definition of what should be done is easy to understand.
